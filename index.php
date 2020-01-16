@@ -1,7 +1,7 @@
 <html>
  <head>
  <Title>Registration Form</Title>
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
  <style type="text/css">
  	body { background-color: #fff; border-top: solid 10px #000;
  	    color: #333; font-size: .85em; margin: 20; padding: 20;
@@ -107,7 +107,7 @@
  </body>
 
  <script type="text/javascript">
-     console.log("called");
+     console.log("calleddd");
      function processImage() {
          var subscriptionKey = "cd4bf6bbc03f4551ac4454522f1d5146";
          var uriBase ="https://southeastasia.api.cognitive.microsoft.com";
