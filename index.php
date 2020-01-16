@@ -110,7 +110,7 @@
      console.log("called");
      function processImage() {
          var subscriptionKey = "cd4bf6bbc03f4551ac4454522f1d5146";
-         var uriBase ="https://naufal-computer-vision.cognitiveservices.azure.com/";
+         var uriBase ="https://southeastasia.api.cognitive.microsoft.com/";
 
          // Request parameters.
          var params = {
