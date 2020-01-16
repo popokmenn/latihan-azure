@@ -110,7 +110,7 @@
      console.log("calleddd");
      function processImage() {
          var subscriptionKey = "cd4bf6bbc03f4551ac4454522f1d5146";
-         var uriBase ="https://southeastasia.api.cognitive.microsoft.com";
+         var uriBase ="https://southeastasia.api.cognitive.microsoft.com/vision/v2.0/analyze";
 
          // Request parameters.
          var params = {
